@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // Include stdlib.h for malloc
+#include <stdlib.h> 
 
 // RecordType
 struct RecordType
